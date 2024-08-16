@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+algoritmos/Matriz.cpp
+algoritmos/Matriz-ver2.cpp
