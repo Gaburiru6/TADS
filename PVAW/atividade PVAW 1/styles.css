@@ -1,0 +1,55 @@
+h1{
+    text-align: left;
+}
+
+p{text-align: left;
+}
+
+.center
+    {
+        display: flex;
+        display: -webkit-flex;
+        justify-content: center;
+        align-items: center;
+}
+
+.textcenter{
+    justify-content: left;
+    margin-left: 5cm;
+    margin-right: 5cm;
+}
+
+.title{
+    background-color: #013c29;
+    border-radius: 1cm;
+    text-indent: 0.2cm;
+    color: white;
+}
+
+footer{
+    background-color: #013c29;
+    color: white;
+    align-items: center;
+    display: flex;
+    gap: 1cm;
+    height: 3cm;
+}
+ .left{
+    margin-left: 5cm;
+ }
+ .right{
+    margin-right: 5cm;
+    margin-bottom: 1cm;
+}
+
+h1{
+    margin-bottom: 0%;
+    margin-top: 1cm;
+}
+
+hr{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    border: 0.05cm solid greenyellow;
+}
+
